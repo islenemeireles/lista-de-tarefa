@@ -6,10 +6,10 @@ Você vai precisar ter instalado as seguintes ferramentas: Git, Node.js, VSCode.
 
 ## Instruções como rodar o projeto:
 ### Clone ou baixe este repositório:
-git clone https://github.com/islenemeireles/lista-de-afazeres.git
+git clone https://github.com/islenemeireles/lista-de-tarefa.git
 
 ### Abra a pasta do projeto no seu terminal:
-cd lista-de-afazeres
+cd lista-de-tarefa
 
 ### Instale as dependências com o:
 npm install ou npm i
@@ -25,8 +25,8 @@ npm install @fortawesome/fontawesome-svg-core \
 npm run dev
 
 ## Tecnologias Utilizadas
-- React
-- Javascript
-- Node.js
-- FontAwesome (para ícones)
-- CSS (para estilos)
+- React;
+- Javascript;
+- Node.js;
+- FontAwesome (para ícones);
+- CSS (para estilos).
