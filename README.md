@@ -1,8 +1,32 @@
-# React + Vite
+# To do list
+Uma simples lista de tarefas desenvolvida em React, Javascript e CSS.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Para começar
+Você vai precisar ter instalado as seguintes ferramentas: Git, Node.js, VSCode.
 
-Currently, two official plugins are available:
+## Instruções como rodar o projeto:
+### Clone ou baixe este repositório:
+git clone https://github.com/islenemeireles/lista-de-afazeres.git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Abra a pasta do projeto no seu terminal:
+cd lista-de-afazeres
+
+### Instale as dependências com o:
+npm install ou npm i
+
+### Antes de executar a aplicação, no Vscode da pasta você deverá instalar três pacotes relacionados ao FontAwesome(conjunto de ferramentas que utilizei para os ícones):
+npm install @fortawesome/fontawesome-svg-core \
+@fortawesome/free-solid-svg-icons \
+@fortawesome/react-fontawesome
+
+* Obs.: É necessário que para instalar você precisa colocar todos os três pacotes juntos dessa forma acima, e não um de cada vez, para evitar qualquer tipo de erro!
+
+### Execute a aplicação no terminal dentro do vscode da pasta dessa to-do list:
+npm run dev
+
+## Tecnologias Utilizadas
+- React
+- Javascript
+- Node.js
+- FontAwesome (para ícones)
+- CSS (para estilos)
