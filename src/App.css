@@ -1,0 +1,18 @@
+/* estilos específicos pro App */
+.App-header {
+  background-color: #e037ae;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 80vh;
+}
